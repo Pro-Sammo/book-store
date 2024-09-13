@@ -49,7 +49,7 @@ To run this project, you will need to add the following environment variables to
 Clone the repository:
 
 ```bash
- git clone https://github.com/yourusername/bookstore-api.git
+ git clone https://github.com/Pro-Sammo/book-store.git
  cd book-store
 ```
 
