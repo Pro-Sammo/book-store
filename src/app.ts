@@ -38,4 +38,4 @@ app.listen(PORT, () => {
   console.log(`Server is running no port no. ${4000}`);
 });
 
-export { app };
+
